@@ -1,7 +1,27 @@
+#fetch_comments.py - fine name
+
 import re
 import json
 import googleapiclient.discovery
 
+import os  # Type hint added for the os module
+import io
+from dotenv import load_dotenv
+from typing import Any
+
+def load_dotenv(dotenv_path: str | None = None, stream: io.StringIO | None = None, verbose: bool = False, override: bool = False, interpolate: bool = True, encoding: str | None = "utf-8") -> bool:
+    pass
+
+os: Any  # Type hint for the os module
+
+# Load environment variables from the .env file
+load_dotenv()
+
+# Access the GOOGLE_API_KEY from the environment
+API_KEY = os.getenv('GOOGLE_API_KEY')
+ = os.getenv('GOOGLE_API_KEY')
+
+# ... (rest of your Python script)
 
 def extract_video_id(video_url):
     match = re.search(r"youtube\.com/watch\?v=([^\s&]+)", video_url)
@@ -123,8 +143,8 @@ def fetch_related_videos(video_title, api_key):
     return related_videos
 
 def main():
-    video_url = "https://www.youtube.com/watch?v=WoDQaSx7ifI"
-    api_key = "AIzaSyD_jZ0ZbOqCjYrV7Jx1mjuE7AaV6xoD_Ls"
+    video_url = "https://www.youtube.com/watch?v=rR_ZWFXxFvM"
+    api_key = API_KEY
 
     # Extract video ID from the URL
     video_id = extract_video_id(video_url)

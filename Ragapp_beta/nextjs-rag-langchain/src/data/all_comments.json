@@ -1,0 +1,194 @@
+[
+    {
+        "Comment": "Watch All Latest Full Stack NextJs React App : https://youtu.be/2lNjK9IwGlI",
+        "Reply": "(@AshikRahman-fw3sv: how to make website ,envato , codecanyon, themeforest , website marketplace source code website  source code and &amp; full Stack make 2024)"
+    },
+    {
+        "Comment": "took me 2 weeks to complete the full course, and finally just finished it. &lt;3",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Brother you can speak in hindi, if you are not comfortable in English.",
+        "Reply": "(@tubeguruji: Yes)"
+    },
+    {
+        "Comment": "What about redirecting users to the dashboard as soon as they sign in ?",
+        "Reply": "(@tubeguruji: Add redirect url for in clerk signIn component)"
+    },
+    {
+        "Comment": "i hvae been to acces clerk&#39;s website but not working",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Sir, how to send and accept friend request (can you tell how to implement this option).. in drizzle orm and postgreSQL",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "The graph is not correct for example you see The home decor total budget is $3500 but it&#39;s showing $4500 in the graph",
+        "Reply": "(@tubeguruji: I will check it , Thanks for update, Rather u can check live demo app)"
+    },
+    {
+        "Comment": "make projects on react native that consists of otp auth, redux,api handling  ,monogdb atlas  ,node ,express etcthis supabase stuffs are not going to work when we work for any company",
+        "Reply": "(@tubeguruji: I understand your concern, In this video we use Postgres Sql with Dirzzle ORM which is quite popular in IT industry.  Also going forward my focus will be on building App which can be converted to startup product.)"
+    },
+    {
+        "Comment": "Thanks a lot !!! Now im trying to do the sidebar responsive for small screens !",
+        "Reply": "(@tubeguruji: Great! Try it)"
+    },
+    {
+        "Comment": "Sir, is it advisable to make direct db interactions from the client components?",
+        "Reply": "(@tubeguruji: Depends on what ur building... So its does not matter that much)"
+    },
+    {
+        "Comment": "can you please create a website builder using nexjts 14 like this one : https://www.youtube.com/watch?v=6omuUOZcWL0&amp;t=381s&amp;ab_channel=WebProdigiesI know it&#39;s very challenging but you are simplifying everything brother",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Sir make a PWA alternative of splitwise..",
+        "Reply": "(@tubeguruji: Noted)"
+    },
+    {
+        "Comment": "Sir please make progressive web app",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Amazing Tutorial!! Bro, I would suggest you to shift your focus to building SaaS products. That would be really amazing as it&#39;s in the trend and the demand for such beginner friendly tutorials are also increasing. Thanks :)",
+        "Reply": "(@tubeguruji: Thanks for the tip! I will do it)"
+    },
+    {
+        "Comment": "how to make website ,envato , codecanyon, themeforest , website marketplace source code website  source code and &amp; full Stack make 2024",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "budgets  This page is not found  how to solve it sir",
+        "Reply": "(@tubeguruji: Make sure u have budget page created first)"
+    },
+    {
+        "Comment": "The env still doesn&#39;t work for me, even after adding next_public prefix",
+        "Reply": "(@tubeguruji: Ok, try to use url directly in your code)"
+    },
+    {
+        "Comment": "Clerk Auth is not working. after setup when i refresh the page it doesn&#39;t show sign up page.what is issue?? would you help me sir??",
+        "Reply": "(@tubeguruji: What is the issue?)"
+    },
+    {
+        "Comment": "clerk is not redirecting to signup page and giving error, can you tell me your clerk version? error: &quot;Clerk: The prop &quot;afterSignInUrl&quot; is deprecated and should be replaced with the new &quot;fallbackRedirectUrl&quot; or &quot;forceRedirectUrl&quot; props instead.&quot;",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "when i reload my pc i found next js couldn&#39;t compile the files",
+        "Reply": "(@tubeguruji: Thats weird, Any error?)"
+    },
+    {
+        "Comment": "Great job sir, awesome tutorial. Please can I get any other alternatives to clerk. Their website is not coming up.",
+        "Reply": "(@tubeguruji: Sure, will do)"
+    },
+    {
+        "Comment": "Hi sir, Amazing project. waiting for the &quot;Find people near by with simple interests&quot; tutorial. Thanks a lot in advance!",
+        "Reply": "(@tubeguruji: Thanks, Will develop soon)"
+    },
+    {
+        "Comment": "I thought on useRouter() hook to redirect the method was .push(&#39;/&#39;)?",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "How many database we can create for free in neon. is there any limit?",
+        "Reply": "(@tubeguruji: Not sure yet, U. can check)"
+    },
+    {
+        "Comment": "Can you build banking system app",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Error: (0 , _clerk_nextjs__WEBPACK_IMPORTED_MODULE_5__.useUser) is not a functionhow to solve this error for which is shown when I use UseUser",
+        "Reply": "(@speedster784: It should be important in a client component so try adding &quot;use client&quot; to the top of the file)"
+    },
+    {
+        "Comment": "Do you have any react native courses?",
+        "Reply": "(@tubeguruji: Yes Already uploaded a lot on my channel)"
+    },
+    {
+        "Comment": "That&#39;s exactly what I needed lately 🎉 thanks so much, and keep them coming!!!!",
+        "Reply": "(@tubeguruji: Great !)"
+    },
+    {
+        "Comment": "Can we create this in replit ??",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Sir in my project I am using clerk but authmiddlware .ts page show the problem for import statment",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Do use typescript and nest js for backend in coming video sir",
+        "Reply": "(@tubeguruji: Yes, sure)"
+    },
+    {
+        "Comment": "Thanks for doing this project awesome thank you mam I really appreciate it",
+        "Reply": "(@tubeguruji: Most welcome 😊)"
+    },
+    {
+        "Comment": "Excited to build this with you.. Just thought you should know The get started buttons From your Demo are redirecting to extremely spammy unsafe websites.",
+        "Reply": "(@tubeguruji: Oh... Will check)"
+    },
+    {
+        "Comment": "Big thanks sir for this new project 🎉❤",
+        "Reply": "(@tubeguruji: Most welcome)"
+    },
+    {
+        "Comment": "why you don’t have more subs you deserve millions of subs your content is dope 🔥🔥🔥🔥",
+        "Reply": "(@tubeguruji: Thank you so much)"
+    },
+    {
+        "Comment": "There is nowhere else you can find this kind of project on youtube only in this channel. Thanks G",
+        "Reply": "(@tubeguruji: Thanks,)"
+    },
+    {
+        "Comment": "Thank you for sharing the source code😍😍",
+        "Reply": "(@tubeguruji: You are welcome 😊)"
+    },
+    {
+        "Comment": "Your Consistency is Insane Sir 🔥💪",
+        "Reply": "(@tubeguruji: Thank u so much 😊)"
+    },
+    {
+        "Comment": "Wow u trying to compete with antonio",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "Sir, build a Full-Stack Chat Application using Expo or Next.js, Kinde or Clerk Auth and Prisma, not Drizzle ORM.",
+        "Reply": "(@tubeguruji: Noted)"
+    },
+    {
+        "Comment": "Awsome Project Sir , actually  i am waiting for this project",
+        "Reply": "(@tubeguruji: Perfect)"
+    },
+    {
+        "Comment": "We also need the Mobile App version If this project sir please❤❤❤❤",
+        "Reply": "(@tubeguruji: Similar Kind of app already there : <a href=\"https://www.youtube.com/watch?v=bpP7PKuEjgI\">https://youtu.be/bpP7PKuEjgI</a>)"
+    },
+    {
+        "Comment": "Just one more thought. You should provide source code for 3$ or 1$. so people grt encourage to learn rather then just copy and paste just a suggestion. Love your tutorial. Please could you make a tutorial on portfolio website using postgresql",
+        "Reply": "(0)"
+    },
+    {
+        "Comment": "just one word amazing. Could you please create resume portfolio using post gresql please so we can put all this in it",
+        "Reply": "(@tubeguruji: Thanks. Sure, will do)"
+    },
+    {
+        "Comment": "Oh man you&#39;re very productive. Thanks for this awesome course",
+        "Reply": "(@tubeguruji: THanks)"
+    },
+    {
+        "Comment": "Very nice project once again! Can I ask, which MacBook are you using ?",
+        "Reply": "(@tubeguruji: Thanks. Mac Book Air M2)"
+    },
+    {
+        "Comment": "hello guru, thank you for your wonderful effort. because of you only i am learning lots and lots of things in frontEnd technology. But my humble request is to dont use typescript for upcoming project,its very confusing bro.",
+        "Reply": "(@tubeguruji: Thank you so much, In many of my video typescript is not used.)"
+    },
+    {
+        "Comment": "Please sir make project on MERN stack",
+        "Reply": "(0)"
+    }
+]
