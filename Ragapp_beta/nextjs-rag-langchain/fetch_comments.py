@@ -19,7 +19,7 @@ load_dotenv()
 
 # Access the GOOGLE_API_KEY from the environment
 API_KEY = os.getenv('GOOGLE_API_KEY')
- = os.getenv('GOOGLE_API_KEY')
+ 
 
 # ... (rest of your Python script)
 

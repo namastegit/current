@@ -1,102 +1,14 @@
 [
     {
-        "Comment": "Brother you can speak in hindi, if you are not comfortable in English.",
-        "Reply": "(@tubeguruji: Yes)"
-    },
-    {
-        "Comment": "What about redirecting users to the dashboard as soon as they sign in ?",
-        "Reply": "(@tubeguruji: Add redirect url for in clerk signIn component)"
-    },
-    {
-        "Comment": "Sir, how to send and accept friend request (can you tell how to implement this option).. in drizzle orm and postgreSQL",
+        "Comment": "Sir please make whatsapp crm for messaging, It will awsome for startups",
         "Reply": "(0)"
     },
     {
-        "Comment": "The graph is not correct for example you see The home decor total budget is $3500 but it&#39;s showing $4500 in the graph",
-        "Reply": "(@tubeguruji: I will check it , Thanks for update, Rather u can check live demo app)"
-    },
-    {
-        "Comment": "Sir, is it advisable to make direct db interactions from the client components?",
-        "Reply": "(@tubeguruji: Depends on what ur building... So its does not matter that much)"
-    },
-    {
-        "Comment": "can you please create a website builder using nexjts 14 like this one : https://www.youtube.com/watch?v=6omuUOZcWL0&amp;t=381s&amp;ab_channel=WebProdigiesI know it&#39;s very challenging but you are simplifying everything brother",
+        "Comment": "Is there a chance you can build a digital business card platform? with QR generation?",
         "Reply": "(0)"
     },
     {
-        "Comment": "how to make website ,envato , codecanyon, themeforest , website marketplace source code website  source code and &amp; full Stack make 2024",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "budgets  This page is not found  how to solve it sir",
-        "Reply": "(@tubeguruji: Make sure u have budget page created first)"
-    },
-    {
-        "Comment": "Clerk Auth is not working. after setup when i refresh the page it doesn&#39;t show sign up page.what is issue?? would you help me sir??",
-        "Reply": "(@tubeguruji: What is the issue?)"
-    },
-    {
-        "Comment": "clerk is not redirecting to signup page and giving error, can you tell me your clerk version? error: &quot;Clerk: The prop &quot;afterSignInUrl&quot; is deprecated and should be replaced with the new &quot;fallbackRedirectUrl&quot; or &quot;forceRedirectUrl&quot; props instead.&quot;",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Great job sir, awesome tutorial. Please can I get any other alternatives to clerk. Their website is not coming up.",
-        "Reply": "(@tubeguruji: Sure, will do)"
-    },
-    {
-        "Comment": "I thought on useRouter() hook to redirect the method was .push(&#39;/&#39;)?",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "How many database we can create for free in neon. is there any limit?",
-        "Reply": "(@tubeguruji: Not sure yet, U. can check)"
-    },
-    {
-        "Comment": "Can you build banking system app",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Error: (0 , _clerk_nextjs__WEBPACK_IMPORTED_MODULE_5__.useUser) is not a functionhow to solve this error for which is shown when I use UseUser",
-        "Reply": "(@speedster784: It should be important in a client component so try adding &quot;use client&quot; to the top of the file)"
-    },
-    {
-        "Comment": "Do you have any react native courses?",
-        "Reply": "(@tubeguruji: Yes Already uploaded a lot on my channel)"
-    },
-    {
-        "Comment": "That&#39;s exactly what I needed lately 🎉 thanks so much, and keep them coming!!!!",
-        "Reply": "(@tubeguruji: Great !)"
-    },
-    {
-        "Comment": "Can we create this in replit ??",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Sir in my project I am using clerk but authmiddlware .ts page show the problem for import statment",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Excited to build this with you.. Just thought you should know The get started buttons From your Demo are redirecting to extremely spammy unsafe websites.",
-        "Reply": "(@tubeguruji: Oh... Will check)"
-    },
-    {
-        "Comment": "why you don’t have more subs you deserve millions of subs your content is dope 🔥🔥🔥🔥",
-        "Reply": "(@tubeguruji: Thank you so much)"
-    },
-    {
-        "Comment": "There is nowhere else you can find this kind of project on youtube only in this channel. Thanks G",
-        "Reply": "(@tubeguruji: Thanks,)"
-    },
-    {
-        "Comment": "Just one more thought. You should provide source code for 3$ or 1$. so people grt encourage to learn rather then just copy and paste just a suggestion. Love your tutorial. Please could you make a tutorial on portfolio website using postgresql",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "just one word amazing. Could you please create resume portfolio using post gresql please so we can put all this in it",
-        "Reply": "(@tubeguruji: Thanks. Sure, will do)"
-    },
-    {
-        "Comment": "Very nice project once again! Can I ask, which MacBook are you using ?",
-        "Reply": "(@tubeguruji: Thanks. Mac Book Air M2)"
+        "Comment": "Hi, thank you so much for your videos. Can you develop ola or uber clone react native, please",
+        "Reply": "(@tubeguruji: Sure, Will do it.)"
     }
 ]

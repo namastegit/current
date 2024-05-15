@@ -1,42 +1,10 @@
 [
     {
-        "Comment": "can you please create a website builder using nexjts 14 like this one : https://www.youtube.com/watch?v=6omuUOZcWL0&amp;t=381s&amp;ab_channel=WebProdigiesI know it&#39;s very challenging but you are simplifying everything brother",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Amazing Tutorial!! Bro, I would suggest you to shift your focus to building SaaS products. That would be really amazing as it&#39;s in the trend and the demand for such beginner friendly tutorials are also increasing. Thanks :)",
-        "Reply": "(@tubeguruji: Thanks for the tip! I will do it)"
-    },
-    {
-        "Comment": "Clerk Auth is not working. after setup when i refresh the page it doesn&#39;t show sign up page.what is issue?? would you help me sir??",
-        "Reply": "(@tubeguruji: What is the issue?)"
-    },
-    {
-        "Comment": "clerk is not redirecting to signup page and giving error, can you tell me your clerk version? error: &quot;Clerk: The prop &quot;afterSignInUrl&quot; is deprecated and should be replaced with the new &quot;fallbackRedirectUrl&quot; or &quot;forceRedirectUrl&quot; props instead.&quot;",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "when i reload my pc i found next js couldn&#39;t compile the files",
-        "Reply": "(@tubeguruji: Thats weird, Any error?)"
-    },
-    {
-        "Comment": "Can you build banking system app",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Error: (0 , _clerk_nextjs__WEBPACK_IMPORTED_MODULE_5__.useUser) is not a functionhow to solve this error for which is shown when I use UseUser",
-        "Reply": "(@speedster784: It should be important in a client component so try adding &quot;use client&quot; to the top of the file)"
-    },
-    {
-        "Comment": "Sir in my project I am using clerk but authmiddlware .ts page show the problem for import statment",
-        "Reply": "(0)"
-    },
-    {
-        "Comment": "Excited to build this with you.. Just thought you should know The get started buttons From your Demo are redirecting to extremely spammy unsafe websites.",
-        "Reply": "(@tubeguruji: Oh... Will check)"
-    },
-    {
-        "Comment": "Sir, build a Full-Stack Chat Application using Expo or Next.js, Kinde or Clerk Auth and Prisma, not Drizzle ORM.",
+        "Comment": "Please create a resume builder and pdf editing website",
         "Reply": "(@tubeguruji: Noted)"
+    },
+    {
+        "Comment": "Is there a chance you can build a digital business card platform? with QR generation?",
+        "Reply": "(0)"
     }
 ]

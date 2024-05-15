@@ -1,7 +1,7 @@
-import { Chat } from "./components/chat";
+import Chatting from "./components/simple/Landing";
 
 export const runtime = 'edge';
 
 export default function Page() {
-  return <Chat></Chat>
+  return <Chatting></Chatting>
 }
